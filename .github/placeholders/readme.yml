@@ -1,0 +1,12 @@
+REPO_TAGLINE: Optical fibers • photonics • signal propagation
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SEL0366-Comunicacoes-Opticas
+
+BG_1: "#0B1F2A"
+BG_2: "#103B4A"
+TEXT_MAIN: "#E0F7FF"
+TEXT_MUTED: "#9ED4E0"
+ACCENT: "#38BDF8"
+CARD_RADIUS: "18"
