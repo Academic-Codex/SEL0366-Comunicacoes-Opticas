@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SEL0366-Comunicacoes-Opticas">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:23.383877Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SEL0366-Comunicacoes-Opticas?utm_source=SEL0366-Comunicacoes-Opticas&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:27.373901Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
